@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  font-family: "Times New Roman", Georgia, Serif !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+.w3-bar .w3-button {
+  white-space: normal;
+  padding: 10px 20px;
+}
+
+.w3-right .w3-hide-small {
+  display: flex;
+  justify-content: end;
+}
+
+.w3-bar .w3-white .w3-padding .w3-card {
+  max-width: 500px;
+}
+
+.w3-bar .w3-bar-item {
+  padding: 8px 16px;
+  width: auto;
+  border: none;
+  display: block;
+  margin-right: 25px;
+}
+
+.w3-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.w3-image {
+  max-width: 100%;
+  height: auto;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.w3-xxlarge {
+  font-size: 36px !important;
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+
+.w3-padding-64 {
+  padding-top: 64px !important;
+  padding-bottom: 64px !important;
+}
+
+#about {
+  display: flex;
+}
+
+#menu {
+  display: flex;
+}
+
+.w3-col .l6 .w3-padding-large {
+  justify-content: center;
+}
+
+form {
+  margin: 5%;
+}
+
+.form-control {
+  margin-top: 15px;
+}
